@@ -3,9 +3,9 @@
 const nextConfig = {
   env: {
     name: 'Bindytech',
-    description: 'My workspaces.',
+    description: 'My Kasm workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://github.com/bindybandy/kasm-registry/',
+    listUrl: 'https://github.com/bindybandy/',
     contactUrl: 'https://github.com/bindybandy/kasm-registry/issues',
   },
   reactStrictMode: true,
